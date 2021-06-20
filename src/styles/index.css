@@ -13,7 +13,7 @@ input {
 }
 
 .orange {
-  background-color: #ff6600;
+  background-color: #f12ec1e8;
 }
 
 .background-gray {
@@ -31,7 +31,7 @@ input {
 .button {
   font-family: monospace;
   font-size: 10pt;
-  color: black;
+  color: rgb(15, 15, 15);
   background-color: buttonface;
   text-align: center;
   padding: 2px 6px 3px;
